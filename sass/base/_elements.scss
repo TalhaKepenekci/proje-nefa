@@ -1,0 +1,59 @@
+#button-getstarted {
+  width: 180px;
+  height: 72px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  gap: 10px;
+  border-radius: 40px;
+  background: var(
+    --GRA-Blue,
+    linear-gradient(137deg, #468ef9 -12.5%, #0c66ee 107.5%)
+  );
+  color: white;
+}
+
+#button-downloadapp {
+  width: 180px;
+  height: 72px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  border: 1px solid var(--GRA-Blue2, #3984f4);
+  background-color: white;
+  color: #468ef9;
+}
+
+#button-login {
+  width: 150px;
+  height: 55px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  border: 1px solid var(--GRA-Blue, #468ef9);
+  background-color: white;
+  color: #468ef9;
+}
+
+#button-signup {
+  display: flex;
+  width: 150px;
+  height: 55px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background: var(
+    --GRA-Blue,
+    linear-gradient(137deg, #468ef9 -12.5%, #0c66ee 107.5%)
+  );
+  color: white;
+}
